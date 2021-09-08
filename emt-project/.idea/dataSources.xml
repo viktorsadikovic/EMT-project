@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="po_rents@localhost" uuid="d128c838-2a7e-4fbc-9c6d-032200435d00">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/po_rents</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="po_videoGames@localhost" uuid="b79294a9-4380-4f8b-bce9-9207162d6a81">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/po_videoGames</jdbc-url>
+    </data-source>
+  </component>
+</project>
